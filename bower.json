@@ -1,13 +1,13 @@
 {
   "name": "comp392-lesson3-demo",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Jake Parnell <arreth45@gmail.com>"
   ],
   "description": "Lesson 3 Demo for COMP392 for Advanced Graphics",
   "main": "",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "http://github.com/CentennialCollege/COMP392-Lesson01-Part2",
+  "homepage": "https://github.com/Arreth45/Comp392-Lesson3-Demo",
   "ignore": [
     "**/.*",
     "node_modules",
