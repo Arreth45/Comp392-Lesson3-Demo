@@ -3,6 +3,8 @@ var objects;
 (function (objects) {
     // CONTROL CLASS ++++++++++++++++++++++++++++++++++++++++++
     var Control = (function () {
+        //PUBLIC INSTANCE VARIABLES +++++++++++++++++++++++++++
+        // CONSTRUCTOR ++++++++++++++++++++++++++++++++++++++++
         function Control() {
         }
         return Control;
